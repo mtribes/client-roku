@@ -1,5 +1,5 @@
 # mtribes Roku SDK
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/mtribes/client-roku?include_prereleases&label=roku)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/mtribes/client-roku?include_prereleases&label=mtribes-roku)
 # mtribes Overview
 
 [mtribes](https://mtribes.com/) is a UX personalization platform that brings audience segmentation, user targeting and real-time insights together.
