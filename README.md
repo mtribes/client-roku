@@ -7,3 +7,5 @@
 # Getting started
 
 Refer to our [quick start guide](https://mtribes.com/org/_space/developer) for instructions on getting started with using the SDK and integrating your mtribes Space.
+
+There's no need to download the Roku SDK manually as we do this automatically as a part of the space integration step from our CLI.
